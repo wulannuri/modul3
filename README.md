@@ -1,5 +1,5 @@
 # modul3
-#
+*pembuatan kalkulator sederhana*
 # TUGAS 1
 1. buat program "AutocompleteAndTemplates" dengan type "java"
 2. membuat costom live tamplate
