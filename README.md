@@ -1,8 +1,8 @@
 # modul3
 #
 # TUGAS 1
-#buat program "AutocompleteAndTemplates" dengan type "java"
-#membuat costom live tamplate
-#program tentang keliling persegi
-#rumus : panjang + lebar
-#dengan nilai yang telah ditentukan
+1. buat program "AutocompleteAndTemplates" dengan type "java"
+2. membuat costom live tamplate
+3. program tentang keliling persegi
+4. rumus : panjang + lebar
+5. dengan nilai yang telah ditentukan
