@@ -10,4 +10,5 @@ public class Main {
         Main obj = new Main();
         obj.hitung();
     }
+
 }
